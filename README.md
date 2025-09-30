@@ -33,7 +33,3 @@ Run Jupyter Notebook / Python script.
 - Data cleaning and manipulation with Pandas.
 - Visualization and insight generation.
 - Basics of exploratory data analysis.
-
-Visualization and insight generation.
-
-Basics of exploratory data analysis.
