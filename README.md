@@ -85,11 +85,13 @@ This repository is built for curiosity — exploring data, discovering insights,
 
 ---
 
-🪪 Author
-Nakul Limbani
+## 🪪 Author
+
+**Nakul Limbani**  
+🔗 [GitHub Profile](https://github.com/NakulLimbani)
 
 ---
 
-📜 License
-- This project is open-source under the MIT License.
-- Datasets used belong to their respective original sources (UCI, Kaggle, etc.).
+📘 **Acknowledgment:**  
+The datasets used in these projects are open-source and belong to their respective original providers  
+(e.g., UCI Machine Learning Repository, Kaggle, or scikit-learn sample datasets).
