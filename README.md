@@ -91,5 +91,5 @@ Nakul Limbani
 ---
 
 📜 License
-This project is open-source under the MIT License.
-Datasets used belong to their respective original sources (UCI, Kaggle, etc.).
+- This project is open-source under the MIT License.
+- Datasets used belong to their respective original sources (UCI, Kaggle, etc.).
