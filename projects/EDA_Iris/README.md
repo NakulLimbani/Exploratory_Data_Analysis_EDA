@@ -1,4 +1,4 @@
-# 🌸 Exploratory Data Analysis (EDA) on Iris Dataset
+# 🌸 Exploratory Data Analysis (EDA) - Iris Dataset
 
 ## 📌 Project Overview
 This project explores the famous **Iris dataset**, performing statistical analysis and visualizations to understand feature distributions, correlations, and species classification patterns.
@@ -10,10 +10,11 @@ This project explores the famous **Iris dataset**, performing statistical analys
 - Generate insights about the Iris flower dataset.
 
 ## 🛠️ Tech Stack
-- Python  
+- Python
 - Pandas  
 - Matplotlib  
-- Seaborn  
+- Seaborn
+- Scikit-learn
 
 ## 🚀 How to Run
 1. Clone the repo  
