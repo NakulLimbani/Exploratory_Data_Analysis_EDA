@@ -48,11 +48,6 @@ Open the notebook(s) inside and execute all cells to reproduce the analysis.
 ```
 jupyter lab
 ```
-🔍 Current & Upcoming Projects
-Project	Status	Description
-Iris	✅ Complete	Statistical exploration and visualizations of the classic Iris dataset.
-Titanic	🚧 Planned	Passenger survival analysis and feature exploration.
-More coming soon...	🧩	Additional datasets will be added over time.
 
 🛠️ Tech Stack
 - Python
