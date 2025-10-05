@@ -1,5 +1,3 @@
-# CodeClauseInternship_EDA_Iris
-
 # 🌸 Exploratory Data Analysis (EDA) on Iris Dataset
 
 ## 📌 Project Overview
